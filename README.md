@@ -1,4 +1,4 @@
-# Sorting Visualizer
+# Algorithm Visualizer
 
 A simple web-based application to **visualize sorting algorithms** in action. The project demonstrates how different sorting techniques work step by step with animations and optional sound effects.
 
